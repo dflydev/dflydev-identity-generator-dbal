@@ -1,7 +1,7 @@
 {
     "name": "dflydev/identity-generator-dbal",
     "type": "library",
-    "description": "Provides a Doctrine DBAL implemetnation of the identity generator data store.",
+    "description": "Provides a Doctrine DBAL implementation of the identity generator data store.",
     "homepage": "https://github.com/dflydev/dflydev-identity-generator-dbal",
     "keywords": ["identity", "generator", "generation", "id", "dbal", "doctrine"],
     "license": "MIT",
